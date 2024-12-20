@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354057103202",
+    "project_id": "linkify-44591",
+    "storage_bucket": "linkify-44591.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354057103202:android:2418077323fb330d23ee3b",
+        "android_client_info": {
+          "package_name": "com.nissanjk.linkify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCGnTiGx3TZZ8N10ozyhprj97j7-4Gy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
